@@ -5,7 +5,7 @@ Welcome to my Git✨
 *Security Engineer and Researcher*
 *'Ethan' is my name*
 
-
+*I'll start all over again...*
 
 **More about me...**
 
