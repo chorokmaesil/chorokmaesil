@@ -3,7 +3,7 @@
 Welcome to my Git✨
 
 *Security Engineer and Researcher*
-*'Ethan' is a made by remixing my name, and that’s me. pronunciation is a little vague. Call me Ethan, but you can call me Edan.*
+*'Ethan' is my name*
 
 
 
